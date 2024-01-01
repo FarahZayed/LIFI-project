@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "stdint.h": "c",
+        "tm4c123gh6pm.h": "c",
+        "stdio.h": "c",
+        "std_types.h": "c"
+    }
+}

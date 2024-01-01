@@ -1,0 +1,15 @@
+"D:\programs\IAR wokrbench\arm\bin\armPROC.dll" 
+
+"D:\programs\IAR wokrbench\arm\bin\armLMIFTDI.dll" 
+
+"D:\koleya\senior 1\embedded\project\tiva project\Debug\Exe\project.out" 
+
+--plugin="D:\programs\IAR wokrbench\arm\bin\armbat.dll" 
+
+--device_macro="D:\programs\IAR wokrbench\arm/config/debugger/TexasInstruments/TM4C123.dmac" 
+
+--flash_loader="D:\programs\IAR wokrbench\arm/config/flashloader/TexasInstruments/FlashTC4_H6_o.board" 
+
+
+
+

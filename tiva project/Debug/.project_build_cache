@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<BuildDb>
+    <Tool>
+        <Name>linker</Name>
+        <Parent>
+            <Path>D:\koleya\senior 1\embedded\labs\Lab 6\Debug\Exe\project.out</Path>
+            <Output>
+                <Path>D:\koleya\senior 1\embedded\labs\Lab 6\Debug\List\project.map</Path>
+            </Output>
+        </Parent>
+        <Parent>
+            <Path>D:\koleya\senior 1\embedded\lab 3\Debug\Exe\project.out</Path>
+            <Output>
+                <Path>D:\koleya\senior 1\embedded\lab 3\Debug\List\project.map</Path>
+            </Output>
+        </Parent>
+        <Parent>
+            <Path>D:\koleya\senior 1\embedded\project\tiva project\Debug\Exe\project.out</Path>
+            <Output>
+                <Path>D:\koleya\senior 1\embedded\project\tiva project\Debug\List\project.map</Path>
+            </Output>
+        </Parent>
+    </Tool>
+</BuildDb>
